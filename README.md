@@ -1,2 +1,2 @@
 # englishDictionary
-to find words in english words
+this repository is to find words in english words
